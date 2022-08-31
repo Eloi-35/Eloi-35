@@ -7,14 +7,6 @@
 <h3> :arrow_right: Skills </h3>
 <p align="left">
 
-<a href="https://www.python.org/">
-    <img src="https://cdn3.emoji.gg/emojis/1349-python.png" width="45">
-</a>
-
-<a href="https://es.wikipedia.org/wiki/C_Sharp">
-    <img src="https://cdn3.emoji.gg/emojis/7106-csharp.png" width="35">
-</a>
-
 <a href="https://es.wikipedia.org/wiki/HTML5">
     <img src="https://cdn3.emoji.gg/emojis/HTML.png" width="45">
 </a>
